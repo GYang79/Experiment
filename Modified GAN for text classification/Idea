@@ -1,2 +1,3 @@
 idea:
 
+To generate text in recurrent way, and after each sentence, use gan to update the generator or discriminator.
